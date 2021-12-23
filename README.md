@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vladime777
 - 👀 I’m currently trying to find my speciality branch for programming
-- 🌱 I’m currently learning c,c++,python,java,xml
+- 🌱 I’m currently learning c,c++,python,java,xml, javascript
+-I can work with web frameworks such as flask,django
 
 
 <!---
